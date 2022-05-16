@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-```pip3 install robotframework robotframework-selenium2library```
+```pip3 install -r requirements.txt```
 
 ### Run Test
 
