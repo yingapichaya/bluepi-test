@@ -21,5 +21,6 @@ ${SECOND_ITEM_NAME}         Second Task
 ${ADD_BUTTON}               class:material-icons
 ${DELETE_BUTTON}            class:mdl-button__ripple-container
 @{ZERO_ITEM_LIST}
-@{ONE_ITEM_LIST}            First Task
+@{FIRST_ITEM_LIST}          First Task
+@{SECOND_ITEM_LIST}         Second Task
 @{TWO_ITEM_LIST}            First Task    Second Task
